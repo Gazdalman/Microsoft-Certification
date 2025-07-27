@@ -1,0 +1,15 @@
+.vscode
+bin/
+obj/
+.DS_Store        # macOS
+Thumbs.db        # Windows
+*.log
+*.tmp
+*.bak
+.env
+secrets.json
+packages/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
